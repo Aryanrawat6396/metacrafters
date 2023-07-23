@@ -83,6 +83,7 @@ Once the contract is deployed, you can interact with it by calling the mint and 
 ## Authors
 
 Aryan Rawat 
+- 📫 How to reach me **aryan.rawat.5621@gmail.com**
 
 ## License
 
